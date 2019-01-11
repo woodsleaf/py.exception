@@ -28,6 +28,5 @@ def read_file_timed(path):
             time=dt))
 
 
-
 data = read_file_timed(".\\readme.md")  # 2 KB file exist
 data = read_file_timed(".\\readme.mdm")  # 2 KB file not exists
