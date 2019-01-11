@@ -1,4 +1,4 @@
 # py.exception
 #
-# if error exception, then programm is stop, and save log in file .\problems.log
-# else just save log opened file and save time for that opening.
+# if an exception, then the program stops, and saves the error in the file. \ problem.log
+# otherwise save the open file and the time spent to open it.
